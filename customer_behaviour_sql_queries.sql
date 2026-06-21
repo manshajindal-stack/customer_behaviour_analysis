@@ -6,7 +6,9 @@
   from customer
   group by gender;
   ```
-  
+  SELECT * FROM spotify
+where stream > 1000000000; 
+
   --Q2. Which customers used a discount but still spent more than the average purchase amount?
 
   ```sql
